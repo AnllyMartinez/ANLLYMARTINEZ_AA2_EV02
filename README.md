@@ -5,7 +5,7 @@ Evidencia: GA7-220501096-AA2-EV02 Módulos de software codificados y probados / 
 
 ## Acerca del Proyecto
 
-Este repositorio contiene un proyecto de gestión de asistencia en un colegio para profesores y estudiantes, implementado en Java usando JDBC y MySQL. Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los registros de usuarios. 
+Este repositorio es una aplicación web desarrollada para registrar usuarios y mostrar esos datos utilizando Java Servlets, JSP y MySQL. 
 
 ## Contenido del Repositorio
 
